@@ -19,7 +19,7 @@ A smart Tic Tac Toe game built using **Q-Learning** (Reinforcement Learning), wi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rl-tic-tac-toe.git
+git clone https://github.com/ridamansour/rl-tic-tac-toe.git
 cd rl-tic-tac-toe
 ```
 
